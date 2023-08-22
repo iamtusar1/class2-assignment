@@ -1,6 +1,6 @@
 <?php 
 
-   $marks = 89;
+   $marks = 95;
 
    if( $marks >= 0 && $marks <= 32 ){
       echo "Your Marks is $marks";

@@ -1,6 +1,6 @@
 <?php
 
-    $Letter = "";
+    $Letter = "A";
 
     switch($Letter){
         case "A":
